@@ -69,7 +69,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 696.0, -3.5, 30.0, 30.0 ],
 					"style" : ""
 				}
@@ -78,13 +78,14 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-6",
+					"linecount" : 2,
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 940.0, 224.0, 82.0, 26.0 ],
+					"patching_rect" : [ 940.0, 224.0, 65.0, 39.0 ],
 					"style" : "",
-					"text" : "loadmess 1.5"
+					"text" : "loadmess 1.2"
 				}
 
 			}
@@ -97,7 +98,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 919.0, 151.0, 82.0, 26.0 ],
 					"style" : "",
-					"text" : "loadmess 0.3"
+					"text" : "loadmess 0.1"
 				}
 
 			}

@@ -2,8 +2,8 @@
 	"name" : "regieAudio",
 	"version" : 1,
 	"creationdate" : -721919280,
-	"modificationdate" : -717191386,
-	"viewrect" : [ 1223.0, 45.0, 300.0, 500.0 ],
+	"modificationdate" : -717189510,
+	"viewrect" : [ 1376.0, 50.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -41,12 +41,12 @@
 				"local" : 1
 			}
 ,
-			"pedaleWahWah.maxpat" : 			{
+			"tremolo.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"tremolo.maxpat" : 			{
+			"egaliseur_5b.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
