@@ -2,7 +2,7 @@
 	"name" : "regieVideo",
 	"version" : 1,
 	"creationdate" : -717261885,
-	"modificationdate" : -715819983,
+	"modificationdate" : -715815642,
 	"viewrect" : [ 6.0, 220.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -37,6 +37,16 @@
 			}
 ,
 			"analyseSpectrale_10b.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"lecteurVideo.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"EffetVideoMiroir.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
