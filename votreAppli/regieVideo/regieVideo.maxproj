@@ -69,6 +69,15 @@
 		}
 ,
 		"media" : 		{
+			"face_PNG5669.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"13081.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
 
 		}
 
