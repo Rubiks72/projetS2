@@ -2,7 +2,7 @@
 	"name" : "regieVideo",
 	"version" : 1,
 	"creationdate" : -717261885,
-	"modificationdate" : -717188291,
+	"modificationdate" : -715819983,
 	"viewrect" : [ 6.0, 220.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -36,12 +36,17 @@
 				"local" : 1
 			}
 ,
-			"EffetVideoNegatif.maxpat" : 			{
+			"analyseSpectrale_10b.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"analyseSpectrale_10b.maxpat" : 			{
+			"analyseSpectrale_1b.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"EffetVideoNegatif.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -56,7 +61,7 @@
 				"local" : 1
 			}
 ,
-			"analyseSpectrale_1b.maxpat" : 			{
+			"mixageVideo.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
