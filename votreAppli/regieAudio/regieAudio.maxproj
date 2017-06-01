@@ -2,7 +2,7 @@
 	"name" : "regieAudio",
 	"version" : 1,
 	"creationdate" : -721919280,
-	"modificationdate" : -715817548,
+	"modificationdate" : -715811430,
 	"viewrect" : [ 1376.0, 50.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,11 +14,6 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
-			}
-,
-			"lecteurAudio.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
 			}
 ,
 			"syntheseSoustractive.maxpat" : 			{
@@ -41,17 +36,7 @@
 				"local" : 1
 			}
 ,
-			"egaliseur_5b.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"tremolo.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"Egaliseur_Growl_1.maxpat" : 			{
+			"lecteurAudio.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -61,7 +46,32 @@
 				"local" : 1
 			}
 ,
+			"Egaliseur_Growl_1.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"egaliseur_5b.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"mixageAudio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"tremolo.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"moduleEnvoiAudio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"receptionOSC.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -93,6 +103,10 @@
 				"kind" : "audiofile",
 				"local" : 1
 			}
+
+		}
+,
+		"externals" : 		{
 
 		}
 
