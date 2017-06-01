@@ -43,9 +43,9 @@
 					"numinlets" : 5,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 416.0, 305.799988, 84.0, 22.0 ],
+					"patching_rect" : [ 416.0, 305.799988, 97.0, 22.0 ],
 					"style" : "",
-					"text" : "zmap 0 1 -2 2"
+					"text" : "zmap 0 1 -10 10"
 				}
 
 			}
