@@ -2,7 +2,7 @@
 	"name" : "regieVideo",
 	"version" : 1,
 	"creationdate" : -717261885,
-	"modificationdate" : -717196829,
+	"modificationdate" : -717188291,
 	"viewrect" : [ 6.0, 220.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -11,6 +11,16 @@
 	"contents" : 	{
 		"patchers" : 		{
 			"routerAudio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"EffetVideoVitesseDeLecture.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"EffetVideoRotation.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -26,12 +36,27 @@
 				"local" : 1
 			}
 ,
-			"analyseSpectrale_1b.maxpat" : 			{
+			"EffetVideoNegatif.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
 			"analyseSpectrale_10b.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"Superposition.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"EffetVideoRecadrage.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"analyseSpectrale_1b.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
