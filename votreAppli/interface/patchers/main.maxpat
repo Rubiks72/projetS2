@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 413.0, 163.0, 640.0, 480.0 ],
+		"rect" : [ 420.0, 87.0, 640.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -37,6 +37,43 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-8",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 70.0, 108.0, 150.0, 20.0 ],
+					"style" : "",
+					"text" : "Launch the video !"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-4",
+					"maxclass" : "toggle",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "int" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 133.0, 135.0, 24.0, 24.0 ],
+					"style" : ""
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-2",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 52.0, 302.0, 156.0, 22.0 ],
+					"style" : "",
+					"text" : "PilotageRegieVideo.maxpat"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-20",
 					"maxclass" : "comment",
@@ -147,7 +184,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 248.0, 48.0, 150.0, 20.0 ],
 					"style" : "",
-					"text" : "La régie de ses morts !!!"
+					"text" : "La régie "
 				}
 
 			}
@@ -211,6 +248,15 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-2", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-4", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-1", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
@@ -230,6 +276,12 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "PilotageRegieAudio.maxpat",
+				"bootpath" : "~/Documents/projetS2/votreAppli/interface/patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "PilotageRegieVideo.maxpat",
 				"bootpath" : "~/Documents/projetS2/votreAppli/interface/patchers",
 				"type" : "JSON",
 				"implicit" : 1
