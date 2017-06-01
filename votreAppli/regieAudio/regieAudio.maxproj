@@ -2,8 +2,8 @@
 	"name" : "regieAudio",
 	"version" : 1,
 	"creationdate" : -721919280,
-	"modificationdate" : -717191386,
-	"viewrect" : [ 1223.0, 45.0, 300.0, 500.0 ],
+	"modificationdate" : -715817548,
+	"viewrect" : [ 1376.0, 50.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -41,7 +41,7 @@
 				"local" : 1
 			}
 ,
-			"pedaleWahWah.maxpat" : 			{
+			"egaliseur_5b.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -50,16 +50,31 @@
 				"kind" : "patcher",
 				"local" : 1
 			}
+,
+			"Egaliseur_Growl_1.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"Filtrage_WOW_1.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"mixageAudio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
 
 		}
 ,
 		"media" : 		{
-			"HUMAINS_BRUITAGE_DIT_WOW_01.wav" : 			{
+			"MUSICAL_GROWL_SECOUE_BOUCLE_01.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"MUSICAL_GROWL_SECOUE_BOUCLE_01.wav" : 			{
+			"HUMAINS_BRUITAGE_DIT_WOW_01.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
