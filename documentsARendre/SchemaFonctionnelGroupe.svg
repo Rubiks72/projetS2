@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="projetS2SchemaFonctionnel.svg"
+   sodipodi:docname="SchemaFonctionnel.svg"
    inkscape:export-filename="/Users/fguntz/Documents/2016-2017-S2/TP-Projet/principeProjet.png"
    inkscape:export-xdpi="86"
    inkscape:export-ydpi="86">
@@ -331,22 +331,6 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
          id="path12761" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker12479"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path12481"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         style="fill:#20ff20;fill-opacity:1;fill-rule:evenodd;stroke:#00ff21;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:isstock="true"
@@ -767,6 +751,85 @@
          id="path5440-3"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6800-2"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path6802-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#0511ff;fill-opacity:1;fill-rule:evenodd;stroke:#0511ff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6594-1"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path6596-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff5215;fill-opacity:1;fill-rule:evenodd;stroke:#ff5215;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker13569-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path13571-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#20ff20;fill-opacity:1;fill-rule:evenodd;stroke:#00ff21;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6480-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#01ff1f;fill-opacity:1;fill-rule:evenodd;stroke:#01ff1f;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path6482-4" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7126-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#0511ff;fill-opacity:1;fill-rule:evenodd;stroke:#0511ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path7128-8" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -795,7 +858,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1234,21 +1297,6 @@
        inkscape:export-ydpi="86" />
     <text
        sodipodi:linespacing="125%"
-       id="text6286"
-       y="198.63399"
-       x="941.78784"
-       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
-       inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86"><tspan
-         style="font-size:17.5px"
-         y="198.63399"
-         x="941.78784"
-         id="tspan6288"
-         sodipodi:role="line">commandes</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
        id="text6438"
        y="329.5191"
        x="1282.8102"
@@ -1519,191 +1567,198 @@
          style="font-size:17.5px;text-align:center;text-anchor:middle">affichage</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1281.6198"
-       y="840.2334"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1073.2134"
+       y="764.42883"
        id="text8243"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86"><tspan
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448947)"><tspan
          sodipodi:role="line"
-         x="1281.6198"
-         y="840.2334"
-         style="font-size:17.5px;text-align:center;text-anchor:middle"
+         x="1073.2134"
+         y="764.42883"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
          id="tspan8245">données</tspan><tspan
          id="tspan8247"
          sodipodi:role="line"
-         x="1281.6198"
-         y="862.1084"
-         style="font-size:17.5px;text-align:center;text-anchor:middle">de contrôle</tspan></text>
+         x="1073.2134"
+         y="786.30383"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle">de contrôle</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#01ff1f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6480)"
-       d="m 1226.77,874.3394 117.3605,0"
+       style="fill:none;fill-rule:evenodd;stroke:#01ff1f;stroke-width:2.58205485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6480)"
+       d="m 1229.5003,662.40386 121.0445,0"
        id="path8249"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
        inkscape:export-ydpi="86" />
     <rect
-       y="822.43854"
-       x="1349.9232"
-       height="102.952"
-       width="61.156132"
+       y="625.12695"
+       x="1356.5194"
+       height="73.943474"
+       width="63.075882"
        id="rect8251"
-       style="opacity:1;fill:#d5f0ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#d5f0ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.58205485;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
        inkscape:export-ydpi="86" />
     <text
        sodipodi:linespacing="125%"
        id="text8253"
-       y="870.32745"
-       x="1381.2313"
-       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="790.33032"
+       x="1158.9476"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86"><tspan
-         style="font-size:17.5px;text-align:center;text-anchor:middle"
-         y="870.32745"
-         x="1381.2313"
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448947)"><tspan
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         y="790.33032"
+         x="1158.9476"
          id="tspan8255"
          sodipodi:role="line">effet</tspan><tspan
          id="tspan8257"
-         style="font-size:17.5px;text-align:center;text-anchor:middle"
-         y="892.20245"
-         x="1381.2313"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         y="812.20532"
+         x="1158.9476"
          sodipodi:role="line">vidéo</tspan></text>
     <rect
-       style="opacity:1;fill:#d5f0ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#d5f0ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.58205485;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8259"
-       width="73.857979"
-       height="102.34789"
-       x="1149.7463"
-       y="822.58319"
+       width="76.176453"
+       height="73.509583"
+       x="1150.0588"
+       y="625.2309"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
        inkscape:export-ydpi="86" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1185.8258"
-       y="866.3208"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="990.76501"
+       y="786.8819"
        id="text8261"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86"><tspan
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448947)"><tspan
          sodipodi:role="line"
          id="tspan8263"
-         x="1185.8258"
-         y="866.3208"
-         style="font-size:17.5px;text-align:center;text-anchor:middle">analyse</tspan><tspan
+         x="990.76501"
+         y="786.8819"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle">analyse</tspan><tspan
          sodipodi:role="line"
-         x="1185.8258"
-         y="888.1958"
-         style="font-size:17.5px;text-align:center;text-anchor:middle"
+         x="990.76501"
+         y="808.7569"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
          id="tspan8265">audio</tspan></text>
     <rect
-       style="opacity:1;fill:#d5f0ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#d5f0ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.58205485;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8267"
-       width="69.950447"
-       height="103.73306"
-       x="1343.576"
-       y="649.216"
+       width="72.146263"
+       height="74.504456"
+       x="1349.973"
+       y="500.71292"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
        inkscape:export-ydpi="86" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1379.6865"
-       y="692.98462"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1157.618"
+       y="637.69403"
        id="text8269"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86"><tspan
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448947)"><tspan
          sodipodi:role="line"
          id="tspan8271"
-         x="1379.6865"
-         y="692.98462"
-         style="font-size:17.5px;text-align:center;text-anchor:middle">lecteur</tspan><tspan
+         x="1157.618"
+         y="637.69403"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle">lecteur</tspan><tspan
          sodipodi:role="line"
-         x="1379.6865"
-         y="714.85962"
-         style="font-size:17.5px;text-align:center;text-anchor:middle"
+         x="1157.618"
+         y="659.56903"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
          id="tspan8273">vidéo</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8277"
-       y="592.90869"
-       x="1334.0751"
-       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="551.56018"
+       x="1118.3608"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86"><tspan
-         style="font-size:17.5px"
-         y="592.90869"
-         x="1334.0751"
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448947)"><tspan
+         style="font-size:15.06198597px"
+         y="551.56018"
+         x="1118.3608"
          id="tspan8279"
          sodipodi:role="line">commandes</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path8281"
-       d="m 1054.2265,874.3394 89.5643,0"
-       style="fill:none;fill-rule:evenodd;stroke:#ff5215;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6594)"
+       d="m 1051.5405,662.40386 92.3758,0"
+       style="fill:none;fill-rule:evenodd;stroke:#ff5215;stroke-width:2.58205485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6594)"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
        inkscape:export-ydpi="86" />
     <text
        sodipodi:linespacing="125%"
        id="text8283"
-       y="857.91187"
-       x="1098.4368"
-       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="779.64447"
+       x="915.55054"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86"><tspan
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448947)"><tspan
          id="tspan8285"
-         style="font-size:17.5px;text-align:center;text-anchor:middle"
-         y="857.91187"
-         x="1098.4368"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         y="779.64447"
+         x="915.55054"
          sodipodi:role="line">flux audio</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path8287"
-       d="m 1412.6612,874.98575 117.3605,0"
-       style="fill:none;fill-rule:evenodd;stroke:#0511ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6800)"
+       d="m 1421.2268,662.86809 121.0446,0"
+       style="fill:none;fill-rule:evenodd;stroke:#0511ff;stroke-width:2.58205485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6800)"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
        inkscape:export-ydpi="86" />
     <text
        sodipodi:linespacing="125%"
        id="text8289"
-       y="838.91022"
-       x="1465.5414"
-       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="763.28998"
+       x="1231.512"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86"><tspan
-         style="font-size:17.5px;text-align:center;text-anchor:middle"
-         y="838.91022"
-         x="1465.5414"
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448947)"><tspan
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         y="763.28998"
+         x="1231.512"
          sodipodi:role="line"
          id="tspan8291">flux</tspan><tspan
          id="tspan8293"
-         style="font-size:17.5px;text-align:center;text-anchor:middle"
-         y="860.78522"
-         x="1465.5414"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         y="785.16498"
+         x="1231.512"
          sodipodi:role="line">vidéo wet</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#0511ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7126)"
-       d="m 1380.5032,751.44264 0,63.22285"
+       style="fill:none;fill-rule:evenodd;stroke:#0511ff;stroke-width:2.58205485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7126)"
+       d="m 1388.0593,574.13541 0,45.40871"
        id="path8295"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
@@ -1711,61 +1766,25 @@
        inkscape:export-ydpi="86" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1425.8802"
-       y="771.14948"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1197.3762"
+       y="704.96936"
        id="text8297"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
        inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86"><tspan
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448947)"><tspan
          id="tspan8299"
          sodipodi:role="line"
-         x="1425.8802"
-         y="771.14948"
-         style="font-size:17.5px;text-align:center;text-anchor:middle">flux</tspan><tspan
+         x="1197.3762"
+         y="704.96936"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle">flux</tspan><tspan
          sodipodi:role="line"
-         x="1425.8802"
-         y="793.02448"
-         style="font-size:17.5px;text-align:center;text-anchor:middle"
+         x="1197.3762"
+         y="726.84436"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
          id="tspan8301">vidéo dry</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1233.3333"
-       y="578.55267"
-       id="text8303"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
-       inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86"><tspan
-         sodipodi:role="line"
-         id="tspan8305"
-         x="1233.3333"
-         y="578.55267">...</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#01ff1f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8313)"
-       d="m 1599.8625,208.87114 0,42.25004"
-       id="path8307"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
-       inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1554.7878"
-       y="199.85622"
-       id="text8309"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
-       inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86"><tspan
-         sodipodi:role="line"
-         id="tspan8311"
-         x="1554.7878"
-         y="199.85622"
-         style="font-size:17.5px">commandes</tspan></text>
     <path
        style="fill:#20ff20;fill-opacity:1;fill-rule:evenodd;stroke:#00ff21;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9513)"
        d="m 143.33704,331.25856 0,42.25004"
@@ -1799,14 +1818,6 @@
        inkscape:export-xdpi="86"
        inkscape:export-ydpi="86" />
     <path
-       style="fill:#20ff20;fill-opacity:1;fill-rule:evenodd;stroke:#00ff21;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12479)"
-       d="m 979.32105,134.26569 0,42.25004"
-       id="path12477"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
-       inkscape:export-xdpi="86"
-       inkscape:export-ydpi="86" />
-    <path
        inkscape:connector-curvature="0"
        id="path12961"
        d="m 1379.3716,87.905925 0,42.250035"
@@ -1815,8 +1826,8 @@
        inkscape:export-xdpi="86"
        inkscape:export-ydpi="86" />
     <path
-       style="fill:#20ff20;fill-opacity:1;fill-rule:evenodd;stroke:#00ff21;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13569)"
-       d="m 1379.3716,598.85256 0,42.25004"
+       style="fill:#20ff20;fill-opacity:1;fill-rule:evenodd;stroke:#00ff21;stroke-width:2.58205485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13569)"
+       d="m 1386.8922,464.54026 0,30.34535"
        id="path13567"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
@@ -2631,5 +2642,157 @@
          y="999.18408"
          x="443.33301"
          sodipodi:role="line">réseau</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1074.3578"
+       y="1131.493"
+       id="text8243-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
+       inkscape:export-xdpi="86"
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448945)"><tspan
+         sodipodi:role="line"
+         x="1074.3578"
+         y="1131.493"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         id="tspan8245-4">données</tspan><tspan
+         id="tspan8247-3"
+         sodipodi:role="line"
+         x="1074.3578"
+         y="1150.3206"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle">de contrôle</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#01ff1f;stroke-width:2.58205485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6480-3)"
+       d="m 1230.8717,968.71506 121.0445,0"
+       id="path8249-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
+       inkscape:export-xdpi="86"
+       inkscape:export-ydpi="86" />
+    <rect
+       y="931.43811"
+       x="1357.8907"
+       height="73.943474"
+       width="63.075882"
+       id="rect8251-8"
+       style="opacity:1;fill:#d5f0ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.58205485;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
+       inkscape:export-xdpi="86"
+       inkscape:export-ydpi="86" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8253-6"
+       y="1157.3945"
+       x="1160.092"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
+       inkscape:export-xdpi="86"
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448945)"><tspan
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         y="1157.3945"
+         x="1160.092"
+         id="tspan8255-7"
+         sodipodi:role="line">effet</tspan><tspan
+         id="tspan8257-8"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         y="1176.222"
+         x="1160.092"
+         sodipodi:role="line">vidéo</tspan></text>
+    <rect
+       style="opacity:1;fill:#d5f0ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.58205485;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8259-7"
+       width="76.176453"
+       height="73.509583"
+       x="1151.4302"
+       y="931.54205"
+       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
+       inkscape:export-xdpi="86"
+       inkscape:export-ydpi="86" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="991.90942"
+       y="1153.9462"
+       id="text8261-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
+       inkscape:export-xdpi="86"
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448945)"><tspan
+         sodipodi:role="line"
+         id="tspan8263-2"
+         x="991.90942"
+         y="1153.9462"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle">analyse</tspan><tspan
+         sodipodi:role="line"
+         x="991.90942"
+         y="1172.7736"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         id="tspan8265-5">audio</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path8281-7"
+       d="m 1052.9119,968.71506 92.3758,0"
+       style="fill:none;fill-rule:evenodd;stroke:#ff5215;stroke-width:2.58205485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6594-1)"
+       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
+       inkscape:export-xdpi="86"
+       inkscape:export-ydpi="86" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8283-4"
+       y="1146.7087"
+       x="916.69495"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
+       inkscape:export-xdpi="86"
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448945)"><tspan
+         id="tspan8285-3"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         y="1146.7087"
+         x="916.69495"
+         sodipodi:role="line">flux audio</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path8287-7"
+       d="m 1422.5982,969.17929 121.0446,0"
+       style="fill:none;fill-rule:evenodd;stroke:#0511ff;stroke-width:2.58205485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6800-2)"
+       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
+       inkscape:export-xdpi="86"
+       inkscape:export-ydpi="86" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8289-8"
+       y="1130.3542"
+       x="1232.6564"
+       style="font-style:normal;font-weight:normal;font-size:30.12397194px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
+       inkscape:export-xdpi="86"
+       inkscape:export-ydpi="86"
+       transform="scale(1.1983375,0.83448945)"><tspan
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         y="1130.3542"
+         x="1232.6564"
+         sodipodi:role="line"
+         id="tspan8291-5">flux</tspan><tspan
+         id="tspan8293-2"
+         style="font-size:15.06198597px;text-align:center;text-anchor:middle"
+         y="1149.1816"
+         x="1232.6564"
+         sodipodi:role="line">vidéo wet</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0511ff;stroke-width:7.06366539;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7126-2)"
+       d="m 1371.3829,576.55991 0,339.83529"
+       id="path8295-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fguntz/Documents/2015-2016-S2/TP-PROJET/Images/schemaFonctionnel.png"
+       inkscape:export-xdpi="86"
+       inkscape:export-ydpi="86" />
   </g>
 </svg>
