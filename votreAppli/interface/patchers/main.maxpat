@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 420.0, 87.0, 640.0, 480.0 ],
+		"rect" : [ 148.0, 236.0, 640.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -42,9 +42,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 70.0, 108.0, 150.0, 20.0 ],
+					"patching_rect" : [ 115.0, 108.0, 150.0, 20.0 ],
 					"style" : "",
-					"text" : "Launch the video !"
+					"text" : "VIDEO"
 				}
 
 			}
